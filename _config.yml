@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Vivek Kamble - CyberSeucurity & GRC Professional"
+name: "Vivek Kamble"
+email: "kamblevivek02@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "CISSP | ISO 27001 | PMP | PMI-ACP | Cybersecurity | Information Security | GRC"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Vivek Kamble"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Innovative and results-driven cybersecurity professional with 14+ years of experience, specializing in security, policies & process, people, vendor, and customer management. Proven track record of driving successful outcomes by owning seamless project onboarding, streamlining operations, and optimizing processes to enhance productivity. Skilled in empowering teams with actionable roadmaps and achieving measurable goals. Expertise in conducting gap analysis ensuring smooth operations and customized solutions. Adept at fostering team growth, elevating organizational maturity, and navigating audits effortlessly."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
